@@ -1,0 +1,13 @@
+{
+  "name": "esmacript",
+  "version": "1.0.0",
+  "description": "aprendiendo las nuevas funciones despues de la creacion de ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript", "html", "css", "esmascript"],
+  "author": "Jeffer Steven",
+  "license": "MIT",
+  "type": "module"
+}
