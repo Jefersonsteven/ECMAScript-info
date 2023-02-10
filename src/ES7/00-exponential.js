@@ -1,3 +1,3 @@
-const data = 3 ** 4; // ** operador de exponenciación
+const data = 3 ** 4; // ** operador de potenciación
 
 console.log(data); // 84
